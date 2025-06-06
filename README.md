@@ -1,14 +1,12 @@
 ### 👋 Hi there, I’m @arturylab
 
 🧪 I'm a nanotechnology researcher and computational chemist pursuing innovative solutions through code and science.  
-💻 Passionate about backend development, data science, and automation — especially when they intersect with education and real-world impact.  
-🐍 Currently building scientific tools and interactive platforms using Python, Flask, MySQL, and data visualization.  
-🚀 Learning and integrating technologies like Docker, Kubernetes, NoSQL (MongoDB), Agile, and Lean methodologies.  
+💻 Passionate about backend development, data science, and automation — especially when they intersect with education and real-world impact.    
 🧠 I love solving problems with scientific precision and engineering creativity.
 
 🎯 I'm looking to collaborate on:
 - Scientific computing and educational platforms  
-- Backend systems for research or learning  
+- Fronend & Backend systems for research or learning  
 - Open-source tools that merge science + code  
 
 📂 Check out my repos for projects in:
