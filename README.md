@@ -1,7 +1,7 @@
 ### 👋 Hi there, I’m @arturylab
 
 🧪 I'm a nanotechnology researcher and computational chemist pursuing innovative solutions through code and science.  
-💻 Passionate about backend development, data science, and automation — especially when they intersect with education and real-world impact.    
+💻 Passionate about front & back end development, data science, and automation — especially when they intersect with education and real-world impact.    
 🧠 I love solving problems with scientific precision and engineering creativity.
 
 🎯 I'm looking to collaborate on:
