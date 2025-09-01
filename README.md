@@ -17,7 +17,7 @@
 
 📫 How to reach me:  
 Feel free to connect via [LinkedIn](https://www.linkedin.com/in/arturylab/) or drop me a message here on GitHub.  
-🌐 Explore my portfolio: [https://arturylab.github.io/my-portafolio/](https://arturylab.github.io/my-portafolio/)
+🌐 Explore my portfolio: [https://arturylab.dev/](https://arturylab.dev/)
 
 😄 Pronouns: he/him  
 ⚡ Fun fact: I mix atomic theory with software architecture — and sometimes refactor both.
